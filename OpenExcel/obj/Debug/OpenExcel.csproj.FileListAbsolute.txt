@@ -1,0 +1,12 @@
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csprojResolveAssemblyReference.cache
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.ResolveComReference.cache
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.Properties.Resources.resources
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.GenerateResource.Cache
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.csproj.CoreCompileInputs.cache
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\bin\Debug\OpenExcel.exe.config
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\bin\Debug\OpenExcel.exe
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\bin\Debug\OpenExcel.pdb
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.exe
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.pdb
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.OpenExcel.resources
+C:\Users\ub765xj\source\repos\OpenExcel\OpenExcel\obj\Debug\OpenExcel.Form1.resources
